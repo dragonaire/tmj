@@ -1,0 +1,47 @@
+This file is to help us keep track of dependencies such as packages that we are using or want to think about using.
+
+
+Julia Packages
+===
+Things we could use
+DataFrames - working with tabular data
+DataStructures - sounds useful?
+Gadfly - plotting library, goes well with IJulia
+IJulia - julia kernel and magics for ipython
+
+===
+Things to look at
+Argparse - parse command line arguments
+Cartesian - fast multidimensional algorithms
+Catalan - combinatorics library
+Clustering - basic clustering functions (or we can write these from scratch to as learning process?)
+DimensionalityReduction - PCA, ICA, NMF
+Distributions - probability distributions and associated functions (sounds useful?)
+DoubleDouble - extended precision (doubt we will need this, but putting here just so we remember)
+Example - (to draw inspiration on how to structure our project)
+GLM - generalized linear models (sounds useful)
+LIBSVM - LIBSVM bindings for julia
+Loess - local regression
+MCMC - mcmc in julia
+Memoize - @memoize macro (woot)
+MLBase - functions to support development of ML algorithms (sounds useful?)
+NHST - (doubt we'll need this, but putting here in case we do)
+NLopt - calls NLopt library
+Optim - optimization functions
+ProgressMeter - progress meter for long-running computations
+PTools - collection of utilities for parallel processing
+Regression - algorithms for regression analysis
+Resampling - tools for resampling data
+SMTPClient - send emails (can use this to notify ourselves of when stuff is done so we can shutdown VMs?)
+Stats - basic statistics library
+SVM - svm
+
+
+Python Packages
+===
+Things we could use
+ipython - dependency for ijulia, let's us easily reproduce/share data exploration process+results
+
+===
+Things to look at
+
