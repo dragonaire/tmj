@@ -13,3 +13,8 @@ TODO
 
  [ ] Code up dummy solution
 
+   [ ] Feature engineering
+   [ ] Predictive algo 1
+   [ ] Predictive algo 2
+   [ ] Validation testing
+   [ ] Combining algos
