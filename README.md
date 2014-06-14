@@ -13,9 +13,15 @@ TODO
 
  [ ] Code up dummy solution
 
-   [x] Set up Terminal.com
-   [ ] Feature engineering
-   [ ] Predictive algo 1
-   [ ] Predictive algo 2
-   [ ] Validation testing
-   [ ] Combining algos
+ [x] Set up Terminal.com
+
+ [ ] Feature engineering
+
+ [ ] Predictive algo 1
+
+ [ ] Predictive algo 2
+
+ [ ] Validation testing
+
+ [ ] Combining algos
+
