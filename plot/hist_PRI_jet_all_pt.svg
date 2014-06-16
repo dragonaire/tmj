@@ -1,0 +1,997 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="203.2mm" height="152.4mm" viewBox="0 0 203.2 152.4" style="stroke:black;fill:black" stroke-width="0.5">
+<g stroke="none" stroke-width="0.3" font-family="Helvetic,Arial,sans" fill="#000000" font-size="3.88">
+  <g class="plotroot xscalable">
+    <g stroke="none" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" fill="#4C404B" font-size="3.18" class="guide ylabels">
+      <text x="26.88" y="8.59" text-anchor="end" style="dominant-baseline:central">1.0×10<tspan style="dominant-baseline:inherit" dy="-1ex">5</tspan></text>
+      <text x="26.88" y="68.42" text-anchor="end" style="dominant-baseline:central">5.0×10<tspan style="dominant-baseline:inherit" dy="-1ex">4</tspan></text>
+      <text x="26.88" y="128.25" text-anchor="end" style="dominant-baseline:central">0</text>
+    </g>
+    <g stroke="none" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" fill="#4C404B" font-size="3.18" class="guide xlabels">
+      <text x="139.27" y="137.14" text-anchor="middle">1500</text>
+      <text x="67.86" y="137.14" text-anchor="middle">500</text>
+      <text x="103.57" y="137.14" text-anchor="middle">1000</text>
+      <text x="32.16" y="137.14" text-anchor="middle">0</text>
+      <text x="174.97" y="137.14" text-anchor="middle">2000</text>
+    </g>
+    <g stroke="none" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" fill="#362A35" font-size="3.88">
+      <text x="103.57" y="145.4" text-anchor="middle">PRI_jet_all_pt</text>
+    </g>
+    <g stroke="none" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" fill="#362A35" font-size="3.88">
+      <text x="190.73" y="66.75" text-anchor="middle">Label</text>
+    </g>
+    <g font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" font-size="3.18">
+      <g class="guide color_b">
+        <g stroke="#0096DD" stroke-width="0.3" fill="#00BFFF">
+          <path d="M181.25,68.75 L 185.55 68.75 185.55 73.05 181.25 73.05 z" />
+        </g>
+        <g stroke="none" fill="#4C404B">
+          <text x="186.55" y="70.9" style="dominant-baseline:central">b</text>
+        </g>
+      </g>
+      <g class="guide color_s">
+        <g stroke="#A8A200" stroke-width="0.3" fill="#D4CA3A">
+          <path d="M181.25,74.05 L 185.55 74.05 185.55 78.35 181.25 78.35 z" />
+        </g>
+        <g stroke="none" fill="#4C404B">
+          <text x="186.55" y="76.2" style="dominant-baseline:central">s</text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g clip-path="url(#clippath1)">
+        <g opacity="1" stroke="#F1F1F5" fill="#FAFAFA" class="guide background">
+          <path d="M27.88,5 L 179.25 5 179.25 131.84 27.88 131.84 z" />
+        </g>
+        <g stroke="#F0F0F3" stroke-width="0.2" class="guide ygridlines xfixed">
+          <path d="M27.88,-111.07 L 179.25 -111.07" />
+          <path d="M27.88,8.59 L 179.25 8.59" />
+          <path d="M27.88,68.42 L 179.25 68.42" />
+          <path d="M27.88,188.08 L 179.25 188.08" />
+          <path d="M27.88,128.25 L 179.25 128.25" />
+          <path d="M27.88,247.91 L 179.25 247.91" />
+          <path d="M27.88,307.74 L 179.25 307.74" />
+          <path d="M27.88,-51.24 L 179.25 -51.24" />
+          <path d="M27.88,-170.9 L 179.25 -170.9" />
+        </g>
+        <g stroke="#F0F0F3" stroke-width="0.2" class="guide xgridlines yfixed">
+          <path d="M67.86,5 L 67.86 131.84" />
+          <path d="M-74.94,5 L -74.94 131.84" />
+          <path d="M-3.54,5 L -3.54 131.84" />
+          <path d="M246.37,5 L 246.37 131.84" />
+          <path d="M32.16,5 L 32.16 131.84" />
+          <path d="M282.07,5 L 282.07 131.84" />
+          <path d="M210.67,5 L 210.67 131.84" />
+          <path d="M174.97,5 L 174.97 131.84" />
+          <path d="M353.47,5 L 353.47 131.84" />
+          <path d="M-146.34,5 L -146.34 131.84" />
+          <path d="M103.57,5 L 103.57 131.84" />
+          <path d="M317.77,5 L 317.77 131.84" />
+          <path d="M-39.24,5 L -39.24 131.84" />
+          <path d="M-110.64,5 L -110.64 131.84" />
+          <path d="M139.27,5 L 139.27 131.84" />
+        </g>
+      </g>
+      <g clip-path="url(#clippath2)">
+        <g class="plotpanel">
+          <g stroke="none" fill="#00BFFF" shape-rendering="crispEdges">
+            <g fill="#00BFFF" id="id9367" class="geometry">
+              <path d="M148.02,128.25 L 148.79 128.25 148.79 128.25 148.02 128.25 z" />
+            </g>
+            <g fill="#00BFFF" id="id9365" class="geometry">
+              <path d="M146.46,128.25 L 147.24 128.25 147.24 128.25 146.46 128.25 z" />
+            </g>
+            <g fill="#00BFFF" id="id9363" class="geometry">
+              <path d="M144.91,128.25 L 145.68 128.25 145.68 128.25 144.91 128.25 z" />
+            </g>
+            <g fill="#00BFFF" id="id9361" class="geometry">
+              <path d="M143.35,128.25 L 144.13 128.25 144.13 128.25 143.35 128.25 z" />
+            </g>
+            <g fill="#00BFFF" id="id9359" class="geometry">
+              <path d="M141.79,128.25 L 142.57 128.25 142.57 128.25 141.79 128.25 z" />
+            </g>
+            <g fill="#00BFFF" id="id9357" class="geometry">
+              <path d="M140.24,128.25 L 141.02 128.25 141.02 128.25 140.24 128.25 z" />
+            </g>
+            <g fill="#00BFFF" id="id9355" class="geometry">
+              <path d="M138.68,128.25 L 139.46 128.25 139.46 128.25 138.68 128.25 z" />
+            </g>
+            <g fill="#00BFFF" id="id9353" class="geometry">
+              <path d="M137.13,128.25 L 137.91 128.25 137.91 128.25 137.13 128.25 z" />
+            </g>
+            <g fill="#00BFFF" id="id9351" class="geometry">
+              <path d="M135.57,128.25 L 136.35 128.25 136.35 128.25 135.57 128.25 z" />
+            </g>
+            <g fill="#00BFFF" id="id9349" class="geometry">
+              <path d="M134.02,128.25 L 134.8 128.25 134.8 128.25 134.02 128.25 z" />
+            </g>
+            <g fill="#00BFFF" id="id9347" class="geometry">
+              <path d="M132.46,128.25 L 133.24 128.25 133.24 128.25 132.46 128.25 z" />
+            </g>
+            <g fill="#00BFFF" id="id9345" class="geometry">
+              <path d="M130.91,128.25 L 131.69 128.25 131.69 128.25 130.91 128.25 z" />
+            </g>
+            <g fill="#00BFFF" id="id9343" class="geometry">
+              <path d="M129.35,128.25 L 130.13 128.25 130.13 128.25 129.35 128.25 z" />
+            </g>
+            <g fill="#00BFFF" id="id9341" class="geometry">
+              <path d="M127.8,128.25 L 128.58 128.25 128.58 128.25 127.8 128.25 z" />
+            </g>
+            <g fill="#00BFFF" id="id9339" class="geometry">
+              <path d="M126.24,128.25 L 127.02 128.25 127.02 128.25 126.24 128.25 z" />
+            </g>
+            <g fill="#00BFFF" id="id9337" class="geometry">
+              <path d="M124.69,128.25 L 125.47 128.25 125.47 128.25 124.69 128.25 z" />
+            </g>
+            <g fill="#00BFFF" id="id9335" class="geometry">
+              <path d="M123.13,128.25 L 123.91 128.25 123.91 128.25 123.13 128.25 z" />
+            </g>
+            <g fill="#00BFFF" id="id9333" class="geometry">
+              <path d="M121.58,128.25 L 122.36 128.25 122.36 128.25 121.58 128.25 z" />
+            </g>
+            <g fill="#00BFFF" id="id9331" class="geometry">
+              <path d="M120.02,128.25 L 120.8 128.25 120.8 128.25 120.02 128.25 z" />
+            </g>
+            <g fill="#00BFFF" id="id9329" class="geometry">
+              <path d="M118.47,128.25 L 119.25 128.25 119.25 128.25 118.47 128.25 z" />
+            </g>
+            <g fill="#00BFFF" id="id9327" class="geometry">
+              <path d="M116.91,128.25 L 117.69 128.25 117.69 128.25 116.91 128.25 z" />
+            </g>
+            <g fill="#00BFFF" id="id9325" class="geometry">
+              <path d="M115.36,128.25 L 116.14 128.25 116.14 128.25 115.36 128.25 z" />
+            </g>
+            <g fill="#00BFFF" id="id9323" class="geometry">
+              <path d="M113.8,128.25 L 114.58 128.25 114.58 128.25 113.8 128.25 z" />
+            </g>
+            <g fill="#00BFFF" id="id9321" class="geometry">
+              <path d="M112.25,128.25 L 113.03 128.25 113.03 128.25 112.25 128.25 z" />
+            </g>
+            <g fill="#00BFFF" id="id9319" class="geometry">
+              <path d="M110.69,128.25 L 111.47 128.25 111.47 128.25 110.69 128.25 z" />
+            </g>
+            <g fill="#00BFFF" id="id9317" class="geometry">
+              <path d="M109.14,128.25 L 109.92 128.25 109.92 128.25 109.14 128.25 z" />
+            </g>
+            <g fill="#00BFFF" id="id9315" class="geometry">
+              <path d="M107.58,128.25 L 108.36 128.25 108.36 128.25 107.58 128.25 z" />
+            </g>
+            <g fill="#00BFFF" id="id9313" class="geometry">
+              <path d="M106.03,128.25 L 106.81 128.25 106.81 128.25 106.03 128.25 z" />
+            </g>
+            <g fill="#00BFFF" id="id9311" class="geometry">
+              <path d="M104.47,128.25 L 105.25 128.25 105.25 128.24 104.47 128.24 z" />
+            </g>
+            <g fill="#00BFFF" id="id9309" class="geometry">
+              <path d="M102.92,128.25 L 103.7 128.25 103.7 128.25 102.92 128.25 z" />
+            </g>
+            <g fill="#00BFFF" id="id9307" class="geometry">
+              <path d="M101.36,128.25 L 102.14 128.25 102.14 128.25 101.36 128.25 z" />
+            </g>
+            <g fill="#00BFFF" id="id9305" class="geometry">
+              <path d="M99.81,128.25 L 100.59 128.25 100.59 128.24 99.81 128.24 z" />
+            </g>
+            <g fill="#00BFFF" id="id9303" class="geometry">
+              <path d="M98.25,128.25 L 99.03 128.25 99.03 128.25 98.25 128.25 z" />
+            </g>
+            <g fill="#00BFFF" id="id9301" class="geometry">
+              <path d="M96.7,128.25 L 97.48 128.25 97.48 128.25 96.7 128.25 z" />
+            </g>
+            <g fill="#00BFFF" id="id9299" class="geometry">
+              <path d="M95.14,128.25 L 95.92 128.25 95.92 128.24 95.14 128.24 z" />
+            </g>
+            <g fill="#00BFFF" id="id9297" class="geometry">
+              <path d="M93.59,128.25 L 94.37 128.25 94.37 128.24 93.59 128.24 z" />
+            </g>
+            <g fill="#00BFFF" id="id9295" class="geometry">
+              <path d="M92.03,128.25 L 92.81 128.25 92.81 128.24 92.03 128.24 z" />
+            </g>
+            <g fill="#00BFFF" id="id9293" class="geometry">
+              <path d="M90.48,128.25 L 91.26 128.25 91.26 128.24 90.48 128.24 z" />
+            </g>
+            <g fill="#00BFFF" id="id9291" class="geometry">
+              <path d="M88.92,128.25 L 89.7 128.25 89.7 128.25 88.92 128.25 z" />
+            </g>
+            <g fill="#00BFFF" id="id9289" class="geometry">
+              <path d="M87.37,128.25 L 88.15 128.25 88.15 128.24 87.37 128.24 z" />
+            </g>
+            <g fill="#00BFFF" id="id9287" class="geometry">
+              <path d="M85.81,128.25 L 86.59 128.25 86.59 128.24 85.81 128.24 z" />
+            </g>
+            <g fill="#00BFFF" id="id9285" class="geometry">
+              <path d="M84.26,128.24 L 85.04 128.24 85.04 128.23 84.26 128.23 z" />
+            </g>
+            <g fill="#00BFFF" id="id9283" class="geometry">
+              <path d="M82.7,128.24 L 83.48 128.24 83.48 128.23 82.7 128.23 z" />
+            </g>
+            <g fill="#00BFFF" id="id9281" class="geometry">
+              <path d="M81.15,128.24 L 81.93 128.24 81.93 128.23 81.15 128.23 z" />
+            </g>
+            <g fill="#00BFFF" id="id9279" class="geometry">
+              <path d="M79.59,128.24 L 80.37 128.24 80.37 128.21 79.59 128.21 z" />
+            </g>
+            <g fill="#00BFFF" id="id9277" class="geometry">
+              <path d="M78.04,128.24 L 78.82 128.24 78.82 128.2 78.04 128.2 z" />
+            </g>
+            <g fill="#00BFFF" id="id9275" class="geometry">
+              <path d="M76.48,128.23 L 77.26 128.23 77.26 128.19 76.48 128.19 z" />
+            </g>
+            <g fill="#00BFFF" id="id9273" class="geometry">
+              <path d="M74.93,128.23 L 75.71 128.23 75.71 128.19 74.93 128.19 z" />
+            </g>
+            <g fill="#00BFFF" id="id9271" class="geometry">
+              <path d="M73.37,128.23 L 74.15 128.23 74.15 128.18 73.37 128.18 z" />
+            </g>
+            <g fill="#00BFFF" id="id9269" class="geometry">
+              <path d="M71.82,128.22 L 72.6 128.22 72.6 128.16 71.82 128.16 z" />
+            </g>
+            <g fill="#00BFFF" id="id9267" class="geometry">
+              <path d="M70.26,128.22 L 71.04 128.22 71.04 128.16 70.26 128.16 z" />
+            </g>
+            <g fill="#00BFFF" id="id9265" class="geometry">
+              <path d="M68.71,128.2 L 69.49 128.2 69.49 128.12 68.71 128.12 z" />
+            </g>
+            <g fill="#00BFFF" id="id9263" class="geometry">
+              <path d="M67.15,128.2 L 67.93 128.2 67.93 128.11 67.15 128.11 z" />
+            </g>
+            <g fill="#00BFFF" id="id9261" class="geometry">
+              <path d="M65.6,128.19 L 66.38 128.19 66.38 128.07 65.6 128.07 z" />
+            </g>
+            <g fill="#00BFFF" id="id9259" class="geometry">
+              <path d="M64.04,128.17 L 64.82 128.17 64.82 128 64.04 128 z" />
+            </g>
+            <g fill="#00BFFF" id="id9257" class="geometry">
+              <path d="M62.49,128.13 L 63.27 128.13 63.27 127.96 62.49 127.96 z" />
+            </g>
+            <g fill="#00BFFF" id="id9255" class="geometry">
+              <path d="M60.93,128.11 L 61.71 128.11 61.71 127.88 60.93 127.88 z" />
+            </g>
+            <g fill="#00BFFF" id="id9253" class="geometry">
+              <path d="M59.38,128.08 L 60.15 128.08 60.15 127.8 59.38 127.8 z" />
+            </g>
+            <g fill="#00BFFF" id="id9251" class="geometry">
+              <path d="M57.82,128.03 L 58.6 128.03 58.6 127.7 57.82 127.7 z" />
+            </g>
+            <g fill="#00BFFF" id="id9249" class="geometry">
+              <path d="M56.27,127.93 L 57.04 127.93 57.04 127.47 56.27 127.47 z" />
+            </g>
+            <g fill="#00BFFF" id="id9247" class="geometry">
+              <path d="M54.71,127.87 L 55.49 127.87 55.49 127.36 54.71 127.36 z" />
+            </g>
+            <g fill="#00BFFF" id="id9245" class="geometry">
+              <path d="M53.16,127.79 L 53.93 127.79 53.93 127.18 53.16 127.18 z" />
+            </g>
+            <g fill="#00BFFF" id="id9243" class="geometry">
+              <path d="M51.6,127.6 L 52.38 127.6 52.38 126.84 51.6 126.84 z" />
+            </g>
+            <g fill="#00BFFF" id="id9241" class="geometry">
+              <path d="M50.05,127.41 L 50.82 127.41 50.82 126.43 50.05 126.43 z" />
+            </g>
+            <g fill="#00BFFF" id="id9239" class="geometry">
+              <path d="M48.49,127.15 L 49.27 127.15 49.27 125.94 48.49 125.94 z" />
+            </g>
+            <g fill="#00BFFF" id="id9237" class="geometry">
+              <path d="M46.94,126.8 L 47.71 126.8 47.71 125.29 46.94 125.29 z" />
+            </g>
+            <g fill="#00BFFF" id="id9235" class="geometry">
+              <path d="M45.38,126.45 L 46.16 126.45 46.16 124.48 45.38 124.48 z" />
+            </g>
+            <g fill="#00BFFF" id="id9233" class="geometry">
+              <path d="M43.83,125.97 L 44.6 125.97 44.6 123.58 43.83 123.58 z" />
+            </g>
+            <g fill="#00BFFF" id="id9231" class="geometry">
+              <path d="M42.27,125.48 L 43.05 125.48 43.05 122.49 42.27 122.49 z" />
+            </g>
+            <g fill="#00BFFF" id="id9229" class="geometry">
+              <path d="M40.72,124.87 L 41.49 124.87 41.49 121.2 40.72 121.2 z" />
+            </g>
+            <g fill="#00BFFF" id="id9227" class="geometry">
+              <path d="M39.16,124.21 L 39.94 124.21 39.94 119.4 39.16 119.4 z" />
+            </g>
+            <g fill="#00BFFF" id="id9225" class="geometry">
+              <path d="M37.61,123.75 L 38.38 123.75 38.38 117.7 37.61 117.7 z" />
+            </g>
+            <g fill="#00BFFF" id="id9223" class="geometry">
+              <path d="M36.05,124.06 L 36.83 124.06 36.83 116.8 36.05 116.8 z" />
+            </g>
+            <g fill="#00BFFF" id="id9221" class="geometry">
+              <path d="M34.5,120.64 L 35.27 120.64 35.27 101.59 34.5 101.59 z" />
+            </g>
+            <g fill="#00BFFF" id="id9219" class="geometry">
+              <path d="M32.94,128.25 L 33.72 128.25 33.72 128.25 32.94 128.25 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9217" class="geometry">
+              <path d="M148.02,128.25 L 148.79 128.25 148.79 128.25 148.02 128.25 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9215" class="geometry">
+              <path d="M146.46,128.25 L 147.24 128.25 147.24 128.25 146.46 128.25 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9213" class="geometry">
+              <path d="M144.91,128.25 L 145.68 128.25 145.68 128.25 144.91 128.25 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9211" class="geometry">
+              <path d="M143.35,128.25 L 144.13 128.25 144.13 128.25 143.35 128.25 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9209" class="geometry">
+              <path d="M141.79,128.25 L 142.57 128.25 142.57 128.25 141.79 128.25 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9207" class="geometry">
+              <path d="M140.24,128.25 L 141.02 128.25 141.02 128.25 140.24 128.25 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9205" class="geometry">
+              <path d="M138.68,128.25 L 139.46 128.25 139.46 128.25 138.68 128.25 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9203" class="geometry">
+              <path d="M137.13,128.25 L 137.91 128.25 137.91 128.25 137.13 128.25 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9201" class="geometry">
+              <path d="M135.57,128.25 L 136.35 128.25 136.35 128.25 135.57 128.25 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9199" class="geometry">
+              <path d="M134.02,128.25 L 134.8 128.25 134.8 128.25 134.02 128.25 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9197" class="geometry">
+              <path d="M132.46,128.25 L 133.24 128.25 133.24 128.25 132.46 128.25 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9195" class="geometry">
+              <path d="M130.91,128.25 L 131.69 128.25 131.69 128.25 130.91 128.25 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9193" class="geometry">
+              <path d="M129.35,128.25 L 130.13 128.25 130.13 128.25 129.35 128.25 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9191" class="geometry">
+              <path d="M127.8,128.25 L 128.58 128.25 128.58 128.25 127.8 128.25 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9189" class="geometry">
+              <path d="M126.24,128.25 L 127.02 128.25 127.02 128.25 126.24 128.25 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9187" class="geometry">
+              <path d="M124.69,128.25 L 125.47 128.25 125.47 128.25 124.69 128.25 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9185" class="geometry">
+              <path d="M123.13,128.25 L 123.91 128.25 123.91 128.25 123.13 128.25 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9183" class="geometry">
+              <path d="M121.58,128.25 L 122.36 128.25 122.36 128.25 121.58 128.25 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9181" class="geometry">
+              <path d="M120.02,128.25 L 120.8 128.25 120.8 128.25 120.02 128.25 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9179" class="geometry">
+              <path d="M118.47,128.25 L 119.25 128.25 119.25 128.25 118.47 128.25 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9177" class="geometry">
+              <path d="M116.91,128.25 L 117.69 128.25 117.69 128.25 116.91 128.25 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9175" class="geometry">
+              <path d="M115.36,128.25 L 116.14 128.25 116.14 128.25 115.36 128.25 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9173" class="geometry">
+              <path d="M113.8,128.25 L 114.58 128.25 114.58 128.25 113.8 128.25 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9171" class="geometry">
+              <path d="M112.25,128.25 L 113.03 128.25 113.03 128.25 112.25 128.25 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9169" class="geometry">
+              <path d="M110.69,128.25 L 111.47 128.25 111.47 128.25 110.69 128.25 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9167" class="geometry">
+              <path d="M109.14,128.25 L 109.92 128.25 109.92 128.25 109.14 128.25 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9165" class="geometry">
+              <path d="M107.58,128.25 L 108.36 128.25 108.36 128.25 107.58 128.25 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9163" class="geometry">
+              <path d="M106.03,128.25 L 106.81 128.25 106.81 128.25 106.03 128.25 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9161" class="geometry">
+              <path d="M104.47,128.25 L 105.25 128.25 105.25 128.25 104.47 128.25 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9159" class="geometry">
+              <path d="M102.92,128.25 L 103.7 128.25 103.7 128.25 102.92 128.25 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9157" class="geometry">
+              <path d="M101.36,128.25 L 102.14 128.25 102.14 128.25 101.36 128.25 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9155" class="geometry">
+              <path d="M99.81,128.25 L 100.59 128.25 100.59 128.25 99.81 128.25 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9153" class="geometry">
+              <path d="M98.25,128.25 L 99.03 128.25 99.03 128.25 98.25 128.25 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9151" class="geometry">
+              <path d="M96.7,128.25 L 97.48 128.25 97.48 128.25 96.7 128.25 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9149" class="geometry">
+              <path d="M95.14,128.25 L 95.92 128.25 95.92 128.25 95.14 128.25 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9147" class="geometry">
+              <path d="M93.59,128.25 L 94.37 128.25 94.37 128.25 93.59 128.25 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9145" class="geometry">
+              <path d="M92.03,128.25 L 92.81 128.25 92.81 128.25 92.03 128.25 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9143" class="geometry">
+              <path d="M90.48,128.25 L 91.26 128.25 91.26 128.25 90.48 128.25 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9141" class="geometry">
+              <path d="M88.92,128.25 L 89.7 128.25 89.7 128.25 88.92 128.25 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9139" class="geometry">
+              <path d="M87.37,128.25 L 88.15 128.25 88.15 128.25 87.37 128.25 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9137" class="geometry">
+              <path d="M85.81,128.25 L 86.59 128.25 86.59 128.25 85.81 128.25 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9135" class="geometry">
+              <path d="M84.26,128.25 L 85.04 128.25 85.04 128.24 84.26 128.24 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9133" class="geometry">
+              <path d="M82.7,128.25 L 83.48 128.25 83.48 128.24 82.7 128.24 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9131" class="geometry">
+              <path d="M81.15,128.25 L 81.93 128.25 81.93 128.24 81.15 128.24 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9129" class="geometry">
+              <path d="M79.59,128.25 L 80.37 128.25 80.37 128.24 79.59 128.24 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9127" class="geometry">
+              <path d="M78.04,128.25 L 78.82 128.25 78.82 128.24 78.04 128.24 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9125" class="geometry">
+              <path d="M76.48,128.25 L 77.26 128.25 77.26 128.23 76.48 128.23 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9123" class="geometry">
+              <path d="M74.93,128.25 L 75.71 128.25 75.71 128.23 74.93 128.23 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9121" class="geometry">
+              <path d="M73.37,128.25 L 74.15 128.25 74.15 128.23 73.37 128.23 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9119" class="geometry">
+              <path d="M71.82,128.25 L 72.6 128.25 72.6 128.22 71.82 128.22 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9117" class="geometry">
+              <path d="M70.26,128.25 L 71.04 128.25 71.04 128.22 70.26 128.22 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9115" class="geometry">
+              <path d="M68.71,128.25 L 69.49 128.25 69.49 128.2 68.71 128.2 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9113" class="geometry">
+              <path d="M67.15,128.25 L 67.93 128.25 67.93 128.2 67.15 128.2 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9111" class="geometry">
+              <path d="M65.6,128.25 L 66.38 128.25 66.38 128.19 65.6 128.19 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9109" class="geometry">
+              <path d="M64.04,128.25 L 64.82 128.25 64.82 128.17 64.04 128.17 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9107" class="geometry">
+              <path d="M62.49,128.25 L 63.27 128.25 63.27 128.13 62.49 128.13 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9105" class="geometry">
+              <path d="M60.93,128.25 L 61.71 128.25 61.71 128.11 60.93 128.11 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9103" class="geometry">
+              <path d="M59.38,128.25 L 60.15 128.25 60.15 128.08 59.38 128.08 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9101" class="geometry">
+              <path d="M57.82,128.25 L 58.6 128.25 58.6 128.03 57.82 128.03 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9099" class="geometry">
+              <path d="M56.27,128.25 L 57.04 128.25 57.04 127.93 56.27 127.93 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9097" class="geometry">
+              <path d="M54.71,128.25 L 55.49 128.25 55.49 127.87 54.71 127.87 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9095" class="geometry">
+              <path d="M53.16,128.25 L 53.93 128.25 53.93 127.79 53.16 127.79 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9093" class="geometry">
+              <path d="M51.6,128.25 L 52.38 128.25 52.38 127.6 51.6 127.6 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9091" class="geometry">
+              <path d="M50.05,128.25 L 50.82 128.25 50.82 127.41 50.05 127.41 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9089" class="geometry">
+              <path d="M48.49,128.25 L 49.27 128.25 49.27 127.15 48.49 127.15 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9087" class="geometry">
+              <path d="M46.94,128.25 L 47.71 128.25 47.71 126.8 46.94 126.8 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9085" class="geometry">
+              <path d="M45.38,128.25 L 46.16 128.25 46.16 126.45 45.38 126.45 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9083" class="geometry">
+              <path d="M43.83,128.25 L 44.6 128.25 44.6 125.97 43.83 125.97 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9081" class="geometry">
+              <path d="M42.27,128.25 L 43.05 128.25 43.05 125.48 42.27 125.48 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9079" class="geometry">
+              <path d="M40.72,128.25 L 41.49 128.25 41.49 124.87 40.72 124.87 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9077" class="geometry">
+              <path d="M39.16,128.25 L 39.94 128.25 39.94 124.21 39.16 124.21 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9075" class="geometry">
+              <path d="M37.61,128.25 L 38.38 128.25 38.38 123.75 37.61 123.75 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9073" class="geometry">
+              <path d="M36.05,128.25 L 36.83 128.25 36.83 124.06 36.05 124.06 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9071" class="geometry">
+              <path d="M34.5,128.25 L 35.27 128.25 35.27 120.64 34.5 120.64 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9069" class="geometry">
+              <path d="M32.94,128.25 L 33.72 128.25 33.72 128.25 32.94 128.25 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9068" class="geometry">
+              <path d="M32.16,128.25 L 32.94 128.25 32.94 97.75 32.16 97.75 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9070" class="geometry">
+              <path d="M33.72,128.25 L 34.5 128.25 34.5 125.83 33.72 125.83 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9072" class="geometry">
+              <path d="M35.27,128.25 L 36.05 128.25 36.05 122.79 35.27 122.79 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9074" class="geometry">
+              <path d="M36.83,128.25 L 37.61 128.25 37.61 123.84 36.83 123.84 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9076" class="geometry">
+              <path d="M38.38,128.25 L 39.16 128.25 39.16 124.04 38.38 124.04 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9078" class="geometry">
+              <path d="M39.94,128.25 L 40.72 128.25 40.72 124.4 39.94 124.4 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9080" class="geometry">
+              <path d="M41.49,128.25 L 42.27 128.25 42.27 125.04 41.49 125.04 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9082" class="geometry">
+              <path d="M43.05,128.25 L 43.83 128.25 43.83 125.7 43.05 125.7 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9084" class="geometry">
+              <path d="M44.6,128.25 L 45.38 128.25 45.38 126.25 44.6 126.25 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9086" class="geometry">
+              <path d="M46.16,128.25 L 46.94 128.25 46.94 126.69 46.16 126.69 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9088" class="geometry">
+              <path d="M47.71,128.25 L 48.49 128.25 48.49 126.99 47.71 126.99 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9090" class="geometry">
+              <path d="M49.27,128.25 L 50.05 128.25 50.05 127.35 49.27 127.35 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9092" class="geometry">
+              <path d="M50.82,128.25 L 51.6 128.25 51.6 127.49 50.82 127.49 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9094" class="geometry">
+              <path d="M52.38,128.25 L 53.16 128.25 53.16 127.73 52.38 127.73 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9096" class="geometry">
+              <path d="M53.93,128.25 L 54.71 128.25 54.71 127.81 53.93 127.81 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9098" class="geometry">
+              <path d="M55.49,128.25 L 56.27 128.25 56.27 127.91 55.49 127.91 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9100" class="geometry">
+              <path d="M57.04,128.25 L 57.82 128.25 57.82 128 57.04 128 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9102" class="geometry">
+              <path d="M58.6,128.25 L 59.38 128.25 59.38 128.04 58.6 128.04 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9104" class="geometry">
+              <path d="M60.15,128.25 L 60.93 128.25 60.93 128.09 60.15 128.09 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9106" class="geometry">
+              <path d="M61.71,128.25 L 62.49 128.25 62.49 128.13 61.71 128.13 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9108" class="geometry">
+              <path d="M63.27,128.25 L 64.04 128.25 64.04 128.14 63.27 128.14 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9110" class="geometry">
+              <path d="M64.82,128.25 L 65.6 128.25 65.6 128.18 64.82 128.18 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9112" class="geometry">
+              <path d="M66.38,128.25 L 67.15 128.25 67.15 128.17 66.38 128.17 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9114" class="geometry">
+              <path d="M67.93,128.25 L 68.71 128.25 68.71 128.2 67.93 128.2 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9116" class="geometry">
+              <path d="M69.49,128.25 L 70.26 128.25 70.26 128.21 69.49 128.21 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9118" class="geometry">
+              <path d="M71.04,128.25 L 71.82 128.25 71.82 128.21 71.04 128.21 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9120" class="geometry">
+              <path d="M72.6,128.25 L 73.37 128.25 73.37 128.22 72.6 128.22 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9122" class="geometry">
+              <path d="M74.15,128.25 L 74.93 128.25 74.93 128.23 74.15 128.23 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9124" class="geometry">
+              <path d="M75.71,128.25 L 76.48 128.25 76.48 128.23 75.71 128.23 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9126" class="geometry">
+              <path d="M77.26,128.25 L 78.04 128.25 78.04 128.24 77.26 128.24 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9128" class="geometry">
+              <path d="M78.82,128.25 L 79.59 128.25 79.59 128.24 78.82 128.24 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9130" class="geometry">
+              <path d="M80.37,128.25 L 81.15 128.25 81.15 128.24 80.37 128.24 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9132" class="geometry">
+              <path d="M81.93,128.25 L 82.7 128.25 82.7 128.25 81.93 128.25 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9134" class="geometry">
+              <path d="M83.48,128.25 L 84.26 128.25 84.26 128.24 83.48 128.24 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9136" class="geometry">
+              <path d="M85.04,128.25 L 85.81 128.25 85.81 128.25 85.04 128.25 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9138" class="geometry">
+              <path d="M86.59,128.25 L 87.37 128.25 87.37 128.24 86.59 128.24 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9140" class="geometry">
+              <path d="M88.15,128.25 L 88.92 128.25 88.92 128.25 88.15 128.25 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9142" class="geometry">
+              <path d="M89.7,128.25 L 90.48 128.25 90.48 128.25 89.7 128.25 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9144" class="geometry">
+              <path d="M91.26,128.25 L 92.03 128.25 92.03 128.25 91.26 128.25 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9146" class="geometry">
+              <path d="M92.81,128.25 L 93.59 128.25 93.59 128.25 92.81 128.25 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9148" class="geometry">
+              <path d="M94.37,128.25 L 95.14 128.25 95.14 128.25 94.37 128.25 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9150" class="geometry">
+              <path d="M95.92,128.25 L 96.7 128.25 96.7 128.25 95.92 128.25 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9152" class="geometry">
+              <path d="M97.48,128.25 L 98.25 128.25 98.25 128.25 97.48 128.25 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9154" class="geometry">
+              <path d="M99.03,128.25 L 99.81 128.25 99.81 128.25 99.03 128.25 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9156" class="geometry">
+              <path d="M100.59,128.25 L 101.36 128.25 101.36 128.25 100.59 128.25 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9158" class="geometry">
+              <path d="M102.14,128.25 L 102.92 128.25 102.92 128.25 102.14 128.25 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9160" class="geometry">
+              <path d="M103.7,128.25 L 104.47 128.25 104.47 128.25 103.7 128.25 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9162" class="geometry">
+              <path d="M105.25,128.25 L 106.03 128.25 106.03 128.25 105.25 128.25 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9164" class="geometry">
+              <path d="M106.81,128.25 L 107.58 128.25 107.58 128.25 106.81 128.25 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9166" class="geometry">
+              <path d="M108.36,128.25 L 109.14 128.25 109.14 128.25 108.36 128.25 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9168" class="geometry">
+              <path d="M109.92,128.25 L 110.69 128.25 110.69 128.25 109.92 128.25 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9170" class="geometry">
+              <path d="M111.47,128.25 L 112.25 128.25 112.25 128.25 111.47 128.25 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9172" class="geometry">
+              <path d="M113.03,128.25 L 113.8 128.25 113.8 128.25 113.03 128.25 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9174" class="geometry">
+              <path d="M114.58,128.25 L 115.36 128.25 115.36 128.25 114.58 128.25 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9176" class="geometry">
+              <path d="M116.14,128.25 L 116.91 128.25 116.91 128.25 116.14 128.25 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9178" class="geometry">
+              <path d="M117.69,128.25 L 118.47 128.25 118.47 128.25 117.69 128.25 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9180" class="geometry">
+              <path d="M119.25,128.25 L 120.02 128.25 120.02 128.25 119.25 128.25 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9182" class="geometry">
+              <path d="M120.8,128.25 L 121.58 128.25 121.58 128.25 120.8 128.25 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9184" class="geometry">
+              <path d="M122.36,128.25 L 123.13 128.25 123.13 128.25 122.36 128.25 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9186" class="geometry">
+              <path d="M123.91,128.25 L 124.69 128.25 124.69 128.25 123.91 128.25 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9188" class="geometry">
+              <path d="M125.47,128.25 L 126.24 128.25 126.24 128.25 125.47 128.25 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9190" class="geometry">
+              <path d="M127.02,128.25 L 127.8 128.25 127.8 128.25 127.02 128.25 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9192" class="geometry">
+              <path d="M128.58,128.25 L 129.35 128.25 129.35 128.25 128.58 128.25 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9194" class="geometry">
+              <path d="M130.13,128.25 L 130.91 128.25 130.91 128.25 130.13 128.25 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9196" class="geometry">
+              <path d="M131.69,128.25 L 132.46 128.25 132.46 128.25 131.69 128.25 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9198" class="geometry">
+              <path d="M133.24,128.25 L 134.02 128.25 134.02 128.25 133.24 128.25 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9200" class="geometry">
+              <path d="M134.8,128.25 L 135.57 128.25 135.57 128.25 134.8 128.25 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9202" class="geometry">
+              <path d="M136.35,128.25 L 137.13 128.25 137.13 128.25 136.35 128.25 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9204" class="geometry">
+              <path d="M137.91,128.25 L 138.68 128.25 138.68 128.25 137.91 128.25 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9206" class="geometry">
+              <path d="M139.46,128.25 L 140.24 128.25 140.24 128.25 139.46 128.25 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9208" class="geometry">
+              <path d="M141.02,128.25 L 141.79 128.25 141.79 128.25 141.02 128.25 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9210" class="geometry">
+              <path d="M142.57,128.25 L 143.35 128.25 143.35 128.25 142.57 128.25 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9212" class="geometry">
+              <path d="M144.13,128.25 L 144.91 128.25 144.91 128.25 144.13 128.25 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9214" class="geometry">
+              <path d="M145.68,128.25 L 146.46 128.25 146.46 128.25 145.68 128.25 z" />
+            </g>
+            <g fill="#D4CA3A" id="id9216" class="geometry">
+              <path d="M147.24,128.25 L 148.02 128.25 148.02 128.25 147.24 128.25 z" />
+            </g>
+            <g fill="#00BFFF" id="id9218" class="geometry">
+              <path d="M32.16,97.75 L 32.94 97.75 32.94 8.69 32.16 8.69 z" />
+            </g>
+            <g fill="#00BFFF" id="id9220" class="geometry">
+              <path d="M33.72,125.83 L 34.5 125.83 34.5 118.8 33.72 118.8 z" />
+            </g>
+            <g fill="#00BFFF" id="id9222" class="geometry">
+              <path d="M35.27,122.79 L 36.05 122.79 36.05 111.94 35.27 111.94 z" />
+            </g>
+            <g fill="#00BFFF" id="id9224" class="geometry">
+              <path d="M36.83,123.84 L 37.61 123.84 37.61 116.96 36.83 116.96 z" />
+            </g>
+            <g fill="#00BFFF" id="id9226" class="geometry">
+              <path d="M38.38,124.04 L 39.16 124.04 39.16 118.83 38.38 118.83 z" />
+            </g>
+            <g fill="#00BFFF" id="id9228" class="geometry">
+              <path d="M39.94,124.4 L 40.72 124.4 40.72 120.19 39.94 120.19 z" />
+            </g>
+            <g fill="#00BFFF" id="id9230" class="geometry">
+              <path d="M41.49,125.04 L 42.27 125.04 42.27 121.66 41.49 121.66 z" />
+            </g>
+            <g fill="#00BFFF" id="id9232" class="geometry">
+              <path d="M43.05,125.7 L 43.83 125.7 43.83 123.04 43.05 123.04 z" />
+            </g>
+            <g fill="#00BFFF" id="id9234" class="geometry">
+              <path d="M44.6,126.25 L 45.38 126.25 45.38 124.12 44.6 124.12 z" />
+            </g>
+            <g fill="#00BFFF" id="id9236" class="geometry">
+              <path d="M46.16,126.69 L 46.94 126.69 46.94 125.01 46.16 125.01 z" />
+            </g>
+            <g fill="#00BFFF" id="id9238" class="geometry">
+              <path d="M47.71,126.99 L 48.49 126.99 48.49 125.59 47.71 125.59 z" />
+            </g>
+            <g fill="#00BFFF" id="id9240" class="geometry">
+              <path d="M49.27,127.35 L 50.05 127.35 50.05 126.24 49.27 126.24 z" />
+            </g>
+            <g fill="#00BFFF" id="id9242" class="geometry">
+              <path d="M50.82,127.49 L 51.6 127.49 51.6 126.59 50.82 126.59 z" />
+            </g>
+            <g fill="#00BFFF" id="id9244" class="geometry">
+              <path d="M52.38,127.73 L 53.16 127.73 53.16 127.02 52.38 127.02 z" />
+            </g>
+            <g fill="#00BFFF" id="id9246" class="geometry">
+              <path d="M53.93,127.81 L 54.71 127.81 54.71 127.22 53.93 127.22 z" />
+            </g>
+            <g fill="#00BFFF" id="id9248" class="geometry">
+              <path d="M55.49,127.91 L 56.27 127.91 56.27 127.43 55.49 127.43 z" />
+            </g>
+            <g fill="#00BFFF" id="id9250" class="geometry">
+              <path d="M57.04,128 L 57.82 128 57.82 127.63 57.04 127.63 z" />
+            </g>
+            <g fill="#00BFFF" id="id9252" class="geometry">
+              <path d="M58.6,128.04 L 59.38 128.04 59.38 127.73 58.6 127.73 z" />
+            </g>
+            <g fill="#00BFFF" id="id9254" class="geometry">
+              <path d="M60.15,128.09 L 60.93 128.09 60.93 127.79 60.15 127.79 z" />
+            </g>
+            <g fill="#00BFFF" id="id9256" class="geometry">
+              <path d="M61.71,128.13 L 62.49 128.13 62.49 127.93 61.71 127.93 z" />
+            </g>
+            <g fill="#00BFFF" id="id9258" class="geometry">
+              <path d="M63.27,128.14 L 64.04 128.14 64.04 127.98 63.27 127.98 z" />
+            </g>
+            <g fill="#00BFFF" id="id9260" class="geometry">
+              <path d="M64.82,128.18 L 65.6 128.18 65.6 128.01 64.82 128.01 z" />
+            </g>
+            <g fill="#00BFFF" id="id9262" class="geometry">
+              <path d="M66.38,128.17 L 67.15 128.17 67.15 128.07 66.38 128.07 z" />
+            </g>
+            <g fill="#00BFFF" id="id9264" class="geometry">
+              <path d="M67.93,128.2 L 68.71 128.2 68.71 128.1 67.93 128.1 z" />
+            </g>
+            <g fill="#00BFFF" id="id9266" class="geometry">
+              <path d="M69.49,128.21 L 70.26 128.21 70.26 128.14 69.49 128.14 z" />
+            </g>
+            <g fill="#00BFFF" id="id9268" class="geometry">
+              <path d="M71.04,128.21 L 71.82 128.21 71.82 128.13 71.04 128.13 z" />
+            </g>
+            <g fill="#00BFFF" id="id9270" class="geometry">
+              <path d="M72.6,128.22 L 73.37 128.22 73.37 128.18 72.6 128.18 z" />
+            </g>
+            <g fill="#00BFFF" id="id9272" class="geometry">
+              <path d="M74.15,128.23 L 74.93 128.23 74.93 128.18 74.15 128.18 z" />
+            </g>
+            <g fill="#00BFFF" id="id9274" class="geometry">
+              <path d="M75.71,128.23 L 76.48 128.23 76.48 128.19 75.71 128.19 z" />
+            </g>
+            <g fill="#00BFFF" id="id9276" class="geometry">
+              <path d="M77.26,128.24 L 78.04 128.24 78.04 128.2 77.26 128.2 z" />
+            </g>
+            <g fill="#00BFFF" id="id9278" class="geometry">
+              <path d="M78.82,128.24 L 79.59 128.24 79.59 128.22 78.82 128.22 z" />
+            </g>
+            <g fill="#00BFFF" id="id9280" class="geometry">
+              <path d="M80.37,128.24 L 81.15 128.24 81.15 128.22 80.37 128.22 z" />
+            </g>
+            <g fill="#00BFFF" id="id9282" class="geometry">
+              <path d="M81.93,128.25 L 82.7 128.25 82.7 128.23 81.93 128.23 z" />
+            </g>
+            <g fill="#00BFFF" id="id9284" class="geometry">
+              <path d="M83.48,128.24 L 84.26 128.24 84.26 128.23 83.48 128.23 z" />
+            </g>
+            <g fill="#00BFFF" id="id9286" class="geometry">
+              <path d="M85.04,128.25 L 85.81 128.25 85.81 128.23 85.04 128.23 z" />
+            </g>
+            <g fill="#00BFFF" id="id9288" class="geometry">
+              <path d="M86.59,128.24 L 87.37 128.24 87.37 128.24 86.59 128.24 z" />
+            </g>
+            <g fill="#00BFFF" id="id9290" class="geometry">
+              <path d="M88.15,128.25 L 88.92 128.25 88.92 128.24 88.15 128.24 z" />
+            </g>
+            <g fill="#00BFFF" id="id9292" class="geometry">
+              <path d="M89.7,128.25 L 90.48 128.25 90.48 128.23 89.7 128.23 z" />
+            </g>
+            <g fill="#00BFFF" id="id9294" class="geometry">
+              <path d="M91.26,128.25 L 92.03 128.25 92.03 128.24 91.26 128.24 z" />
+            </g>
+            <g fill="#00BFFF" id="id9296" class="geometry">
+              <path d="M92.81,128.25 L 93.59 128.25 93.59 128.24 92.81 128.24 z" />
+            </g>
+            <g fill="#00BFFF" id="id9298" class="geometry">
+              <path d="M94.37,128.25 L 95.14 128.25 95.14 128.24 94.37 128.24 z" />
+            </g>
+            <g fill="#00BFFF" id="id9300" class="geometry">
+              <path d="M95.92,128.25 L 96.7 128.25 96.7 128.24 95.92 128.24 z" />
+            </g>
+            <g fill="#00BFFF" id="id9302" class="geometry">
+              <path d="M97.48,128.25 L 98.25 128.25 98.25 128.24 97.48 128.24 z" />
+            </g>
+            <g fill="#00BFFF" id="id9304" class="geometry">
+              <path d="M99.03,128.25 L 99.81 128.25 99.81 128.25 99.03 128.25 z" />
+            </g>
+            <g fill="#00BFFF" id="id9306" class="geometry">
+              <path d="M100.59,128.25 L 101.36 128.25 101.36 128.25 100.59 128.25 z" />
+            </g>
+            <g fill="#00BFFF" id="id9308" class="geometry">
+              <path d="M102.14,128.25 L 102.92 128.25 102.92 128.25 102.14 128.25 z" />
+            </g>
+            <g fill="#00BFFF" id="id9310" class="geometry">
+              <path d="M103.7,128.25 L 104.47 128.25 104.47 128.25 103.7 128.25 z" />
+            </g>
+            <g fill="#00BFFF" id="id9312" class="geometry">
+              <path d="M105.25,128.25 L 106.03 128.25 106.03 128.25 105.25 128.25 z" />
+            </g>
+            <g fill="#00BFFF" id="id9314" class="geometry">
+              <path d="M106.81,128.25 L 107.58 128.25 107.58 128.25 106.81 128.25 z" />
+            </g>
+            <g fill="#00BFFF" id="id9316" class="geometry">
+              <path d="M108.36,128.25 L 109.14 128.25 109.14 128.25 108.36 128.25 z" />
+            </g>
+            <g fill="#00BFFF" id="id9318" class="geometry">
+              <path d="M109.92,128.25 L 110.69 128.25 110.69 128.25 109.92 128.25 z" />
+            </g>
+            <g fill="#00BFFF" id="id9320" class="geometry">
+              <path d="M111.47,128.25 L 112.25 128.25 112.25 128.25 111.47 128.25 z" />
+            </g>
+            <g fill="#00BFFF" id="id9322" class="geometry">
+              <path d="M113.03,128.25 L 113.8 128.25 113.8 128.25 113.03 128.25 z" />
+            </g>
+            <g fill="#00BFFF" id="id9324" class="geometry">
+              <path d="M114.58,128.25 L 115.36 128.25 115.36 128.25 114.58 128.25 z" />
+            </g>
+            <g fill="#00BFFF" id="id9326" class="geometry">
+              <path d="M116.14,128.25 L 116.91 128.25 116.91 128.25 116.14 128.25 z" />
+            </g>
+            <g fill="#00BFFF" id="id9328" class="geometry">
+              <path d="M117.69,128.25 L 118.47 128.25 118.47 128.25 117.69 128.25 z" />
+            </g>
+            <g fill="#00BFFF" id="id9330" class="geometry">
+              <path d="M119.25,128.25 L 120.02 128.25 120.02 128.25 119.25 128.25 z" />
+            </g>
+            <g fill="#00BFFF" id="id9332" class="geometry">
+              <path d="M120.8,128.25 L 121.58 128.25 121.58 128.25 120.8 128.25 z" />
+            </g>
+            <g fill="#00BFFF" id="id9334" class="geometry">
+              <path d="M122.36,128.25 L 123.13 128.25 123.13 128.25 122.36 128.25 z" />
+            </g>
+            <g fill="#00BFFF" id="id9336" class="geometry">
+              <path d="M123.91,128.25 L 124.69 128.25 124.69 128.25 123.91 128.25 z" />
+            </g>
+            <g fill="#00BFFF" id="id9338" class="geometry">
+              <path d="M125.47,128.25 L 126.24 128.25 126.24 128.25 125.47 128.25 z" />
+            </g>
+            <g fill="#00BFFF" id="id9340" class="geometry">
+              <path d="M127.02,128.25 L 127.8 128.25 127.8 128.25 127.02 128.25 z" />
+            </g>
+            <g fill="#00BFFF" id="id9342" class="geometry">
+              <path d="M128.58,128.25 L 129.35 128.25 129.35 128.25 128.58 128.25 z" />
+            </g>
+            <g fill="#00BFFF" id="id9344" class="geometry">
+              <path d="M130.13,128.25 L 130.91 128.25 130.91 128.25 130.13 128.25 z" />
+            </g>
+            <g fill="#00BFFF" id="id9346" class="geometry">
+              <path d="M131.69,128.25 L 132.46 128.25 132.46 128.25 131.69 128.25 z" />
+            </g>
+            <g fill="#00BFFF" id="id9348" class="geometry">
+              <path d="M133.24,128.25 L 134.02 128.25 134.02 128.25 133.24 128.25 z" />
+            </g>
+            <g fill="#00BFFF" id="id9350" class="geometry">
+              <path d="M134.8,128.25 L 135.57 128.25 135.57 128.25 134.8 128.25 z" />
+            </g>
+            <g fill="#00BFFF" id="id9352" class="geometry">
+              <path d="M136.35,128.25 L 137.13 128.25 137.13 128.25 136.35 128.25 z" />
+            </g>
+            <g fill="#00BFFF" id="id9354" class="geometry">
+              <path d="M137.91,128.25 L 138.68 128.25 138.68 128.25 137.91 128.25 z" />
+            </g>
+            <g fill="#00BFFF" id="id9356" class="geometry">
+              <path d="M139.46,128.25 L 140.24 128.25 140.24 128.25 139.46 128.25 z" />
+            </g>
+            <g fill="#00BFFF" id="id9358" class="geometry">
+              <path d="M141.02,128.25 L 141.79 128.25 141.79 128.25 141.02 128.25 z" />
+            </g>
+            <g fill="#00BFFF" id="id9360" class="geometry">
+              <path d="M142.57,128.25 L 143.35 128.25 143.35 128.25 142.57 128.25 z" />
+            </g>
+            <g fill="#00BFFF" id="id9362" class="geometry">
+              <path d="M144.13,128.25 L 144.91 128.25 144.91 128.25 144.13 128.25 z" />
+            </g>
+            <g fill="#00BFFF" id="id9364" class="geometry">
+              <path d="M145.68,128.25 L 146.46 128.25 146.46 128.25 145.68 128.25 z" />
+            </g>
+            <g fill="#00BFFF" id="id9366" class="geometry">
+              <path d="M147.24,128.25 L 148.02 128.25 148.02 128.25 147.24 128.25 z" />
+            </g>
+          </g>
+        </g>
+      </g>
+      <g clip-path="url(#clippath3)">
+      </g>
+    </g>
+  </g>
+</g>
+<defs>
+<clipPath id="clippath1">
+  <path d="M27.88,5 L 179.25 5 179.25 131.84 27.88 131.84" />
+</clipPath
+><clipPath id="clippath2">
+  <path d="M27.88,5 L 179.25 5 179.25 131.84 27.88 131.84" />
+</clipPath
+><clipPath id="clippath3">
+  <path d="M27.88,5 L 179.25 5 179.25 131.84 27.88 131.84" />
+</clipPath
+></defs>
+</svg>
